@@ -773,7 +773,7 @@ button:focus-visible, a:focus-visible {
   .hero-label { margin-bottom: 22px; font-size: 0.76rem; }
   .hero h1 {
     max-width: none;
-    font-size: clamp(2.2rem, 11vw, 3.1rem);
+    font-size: clamp(2.1rem, 10.8vw, 3.05rem);
   }
 
   .hero-title-line { white-space: nowrap; }
