@@ -7,6 +7,11 @@ const HERO_COPY = {
   description: '고객의 시선을 자연스럽게 머물게 하는\n움직이는 콘텐츠를 확인해 보세요.',
 }
 
+function assetUrl(path) {
+  if (!path) return ''
+  return `${import.meta.env.BASE_URL}${path.replace(/^\/+/, '')}`
+}
+
 function findPortfolioItem(id) {
   for (const category of portfolio.categories) {
     const item = category.items.find((candidate) => candidate.id === id)
@@ -68,13 +73,13 @@ function MotionStage({ items }) {
   return (
     <div className="motion-stage" aria-label="JDART24 대표 모션 작업물">
       <figure className="motion-card motion-card--left" aria-hidden="true">
-        <img src={left.thumbnail} alt="" />
+        <img src={assetUrl(left.thumbnail)} alt="" />
       </figure>
       <figure className="motion-card motion-card--center">
-        <img src={center.webp} alt="숫자가 자연스럽게 움직이는 JDART24 모션 작업물" />
+        <img src={assetUrl(center.webp)} alt="숫자가 자연스럽게 움직이는 JDART24 모션 작업물" />
       </figure>
       <figure className="motion-card motion-card--right" aria-hidden="true">
-        <img src={right.thumbnail} alt="" />
+        <img src={assetUrl(right.thumbnail)} alt="" />
       </figure>
     </div>
   )
@@ -181,7 +186,7 @@ function PortfolioCard({ item, categoryName, onOpen }) {
     <article className="portfolio-card">
       <div className="thumbnail-frame">
         <img
-          src={item.thumbnail}
+          src={assetUrl(item.thumbnail)}
           alt={`${categoryName} 모션 디자인 ${item.id} 썸네일`}
           loading="lazy"
           decoding="async"
@@ -323,7 +328,7 @@ function MediaModal({ selection, onClose }) {
           </button>
         </div>
         <div className="modal-media">
-          <img src={source} alt={`${selection.item.id} ${formatLabel} 모션 작업물`} />
+          <img src={assetUrl(source)} alt={`${selection.item.id} ${formatLabel} 모션 작업물`} />
         </div>
         <p className="modal-hint">바깥 영역을 클릭하거나 ESC 키를 누르면 닫힙니다.</p>
       </section>
