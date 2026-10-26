@@ -771,7 +771,12 @@ button:focus-visible, a:focus-visible {
   .hero-energy-illustration { opacity: 0.76; }
 
   .hero-label { margin-bottom: 22px; font-size: 0.76rem; }
-  .hero h1 { max-width: 9.6ch; font-size: clamp(2.7rem, 13.5vw, 4rem); }
+  .hero h1 {
+    max-width: none;
+    font-size: clamp(2.3rem, 11.4vw, 3.2rem);
+  }
+
+  .hero-title-line { white-space: nowrap; }
 
   .hero-description {
     margin-top: 26px;
