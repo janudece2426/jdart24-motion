@@ -333,7 +333,6 @@ img { max-width: 100%; }
 .portfolio-section { padding-top: clamp(110px, 13vw, 180px); }
 
 .portfolio-title-break { display: none; }
-.format-mobile-break { display: none; }
 
 .portfolio-intro {
   position: relative;
@@ -793,8 +792,6 @@ button:focus-visible, a:focus-visible {
   }
 
   .portfolio-title-break { display: block; }
-  .format-mobile-break { display: block; }
-
   .service-item {
     grid-template-columns: 38px 1fr;
     gap: 12px;
