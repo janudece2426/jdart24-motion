@@ -360,23 +360,25 @@ img { max-width: 100%; }
 
 .format-note h3 {
   margin: 0 0 11px;
-  font-size: 0.9rem;
-  font-weight: 750;
+  font-size: 1rem;
+  font-weight: 800;
   letter-spacing: -0.015em;
 }
 
 .format-note p {
   margin: 3px 0 0;
-  color: #62625e;
-  font-size: 0.82rem;
+  color: #4f4f4b;
+  font-size: 0.9rem;
+  font-weight: 600;
   line-height: 1.6;
   word-break: keep-all;
 }
 
 .format-note .format-caution {
   margin-top: 7px;
-  color: #858580;
-  font-size: 0.76rem;
+  color: #71716c;
+  font-size: 0.82rem;
+  font-weight: 600;
 }
 
 .portfolio-count {
@@ -392,16 +394,20 @@ img { max-width: 100%; }
 .category-nav {
   position: sticky;
   top: 0;
-  z-index: 10;
-  overflow-x: auto;
+  z-index: 40;
   border-top: 1px solid var(--hairline);
   border-bottom: 1px solid var(--hairline);
   background: rgba(255, 255, 255, 0.94);
   backdrop-filter: blur(14px);
+}
+
+.category-nav-scroll {
+  overflow-x: auto;
+  overscroll-behavior-inline: contain;
   scrollbar-width: none;
 }
 
-.category-nav::-webkit-scrollbar { display: none; }
+.category-nav-scroll::-webkit-scrollbar { display: none; }
 
 .category-nav-inner {
   width: var(--shell);

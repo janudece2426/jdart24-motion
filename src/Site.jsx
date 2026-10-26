@@ -169,13 +169,15 @@ function ServiceIntro() {
 function CategoryNav() {
   return (
     <nav className="category-nav" aria-label="작업물 카테고리 바로가기">
-      <div className="category-nav-inner">
-        {portfolio.categories.map((category) => (
-          <a key={category.id} href={`#category-${category.id}`}>
-            <span>{category.id}</span>
-            {category.name}
-          </a>
-        ))}
+      <div className="category-nav-scroll">
+        <div className="category-nav-inner">
+          {portfolio.categories.map((category) => (
+            <a key={category.id} href={`#category-${category.id}`}>
+              <span>{category.id}</span>
+              {category.name}
+            </a>
+          ))}
+        </div>
       </div>
     </nav>
   )
