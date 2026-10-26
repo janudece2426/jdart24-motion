@@ -1,0 +1,460 @@
+{
+  "categories": [
+    {
+      "id": "01",
+      "slug": "01-delivery",
+      "name": "배송",
+      "items": [
+        {
+          "id": "01-01",
+          "thumbnail": "/01-delivery/01-delivery-thum.webp",
+          "gif": "/01-delivery/01-delivery.gif",
+          "webp": "/01-delivery/01-delivery.webp"
+        },
+        {
+          "id": "01-02",
+          "thumbnail": "/01-delivery/02-delivery-thum-.webp",
+          "gif": "/01-delivery/02-delivery.gif",
+          "webp": "/01-delivery/02-delivery.webp"
+        },
+        {
+          "id": "01-03",
+          "thumbnail": "/01-delivery/03-delivery-thum-.webp",
+          "gif": "/01-delivery/03-delivery.gif",
+          "webp": "/01-delivery/03-delivery.webp"
+        },
+        {
+          "id": "01-04",
+          "thumbnail": "/01-delivery/04-delivery-thumb.webp",
+          "gif": "/01-delivery/04-delivery.gif",
+          "webp": "/01-delivery/04-delivery.webp"
+        },
+        {
+          "id": "01-05",
+          "thumbnail": "/01-delivery/05-delivery-thumb.webp",
+          "gif": "/01-delivery/05-delivery.gif",
+          "webp": "/01-delivery/05-delivery.webp"
+        },
+        {
+          "id": "01-06",
+          "thumbnail": "/01-delivery/06-delivery-thumb.webp",
+          "gif": "/01-delivery/06-delivery.gif",
+          "webp": "/01-delivery/06-delivery.webp"
+        },
+        {
+          "id": "01-07",
+          "thumbnail": "/01-delivery/07-delivery-thumb.webp",
+          "gif": "/01-delivery/07-delivery.gif",
+          "webp": "/01-delivery/07-delivery%20.webp"
+        },
+        {
+          "id": "01-08",
+          "thumbnail": "/01-delivery/08-delivery-thumb.webp",
+          "gif": "/01-delivery/08-delivery.gif",
+          "webp": "/01-delivery/08-delivery.webp"
+        },
+        {
+          "id": "01-09",
+          "thumbnail": "/01-delivery/09-delivery-thumb.webp",
+          "gif": "/01-delivery/09-delivery.gif",
+          "webp": "/01-delivery/09-delivery-.webp"
+        },
+        {
+          "id": "01-10",
+          "thumbnail": "/01-delivery/010-delivery-thumb.webp",
+          "gif": "/01-delivery/010-delivery%20.gif",
+          "webp": "/01-delivery/010-delivery%20.webp"
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "slug": "02-circle-chart",
+      "name": "원형 그래프",
+      "items": [
+        {
+          "id": "02-01",
+          "thumbnail": "/02-circle-chart/01-circle-chart-thumb.webp",
+          "gif": "/02-circle-chart/01-circle-chart.gif",
+          "webp": "/02-circle-chart/01-circle-chart.webp"
+        },
+        {
+          "id": "02-02",
+          "thumbnail": "/02-circle-chart/02-circle-chart-thumb.webp",
+          "gif": "/02-circle-chart/02-circle-chart.gif",
+          "webp": "/02-circle-chart/02-circle-chart.webp"
+        },
+        {
+          "id": "02-03",
+          "thumbnail": "/02-circle-chart/03-circle-chart%20thumb.webp",
+          "gif": "/02-circle-chart/03-circle-chart.gif",
+          "webp": "/02-circle-chart/03-circle-chart.webp"
+        },
+        {
+          "id": "02-04",
+          "thumbnail": "/02-circle-chart/04-circle-chart%20thumb.webp",
+          "gif": "/02-circle-chart/04-circle-chart.gif",
+          "webp": "/02-circle-chart/04-circle-chart.webp"
+        },
+        {
+          "id": "02-05",
+          "thumbnail": "/02-circle-chart/05-circle-chart%20thumb.webp",
+          "gif": "/02-circle-chart/05-circle-chart.gif",
+          "webp": "/02-circle-chart/05-circle-chart.webp"
+        },
+        {
+          "id": "02-06",
+          "thumbnail": "/02-circle-chart/06-circle-chart%20thumb.webp",
+          "gif": "/02-circle-chart/06-circle-chart.gif",
+          "webp": "/02-circle-chart/06-circle-chart.webp"
+        },
+        {
+          "id": "02-07",
+          "thumbnail": "/02-circle-chart/07-circle-chart%20thumb.webp",
+          "gif": "/02-circle-chart/07-circle-chart.gif",
+          "webp": "/02-circle-chart/07-circle-chart.webp"
+        },
+        {
+          "id": "02-08",
+          "thumbnail": "/02-circle-chart/08-circle-chart%20thumb.webp",
+          "gif": "/02-circle-chart/08-circle-chart.gif",
+          "webp": "/02-circle-chart/08-circle-chart.webp"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "slug": "03-number-roll",
+      "name": "숫자 롤링",
+      "items": [
+        {
+          "id": "03-01",
+          "thumbnail": "/03-number-roll/01-number-roll-thumb..webp",
+          "gif": "/03-number-roll/01-number-roll..gif",
+          "webp": "/03-number-roll/01-number-roll..webp"
+        },
+        {
+          "id": "03-02",
+          "thumbnail": "/03-number-roll/02-number-roll-thumb.webp",
+          "gif": "/03-number-roll/02-number-roll..gif",
+          "webp": "/03-number-roll/02-number-roll..webp"
+        },
+        {
+          "id": "03-03",
+          "thumbnail": "/03-number-roll/03-number-roll-thumb.webp",
+          "gif": "/03-number-roll/03-number-roll..gif",
+          "webp": "/03-number-roll/03-number-roll..webp"
+        },
+        {
+          "id": "03-04",
+          "thumbnail": "/03-number-roll/04-number-roll-thumb.webp",
+          "gif": "/03-number-roll/04-number-roll..gif",
+          "webp": "/03-number-roll/04-number-roll..webp"
+        },
+        {
+          "id": "03-05",
+          "thumbnail": "/03-number-roll/05-number-roll-thumb.webp",
+          "gif": "/03-number-roll/05-number-roll..gif",
+          "webp": "/03-number-roll/05-number-roll..webp"
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "slug": "04-counter",
+      "name": "카운터",
+      "items": [
+        {
+          "id": "04-01",
+          "thumbnail": "/04-counter/01-counter-thumb.webp",
+          "gif": "/04-counter/01-counter.gif",
+          "webp": "/04-counter/01-counter.webp"
+        },
+        {
+          "id": "04-02",
+          "thumbnail": "/04-counter/02-counter-thumb.webp",
+          "gif": "/04-counter/02-counter.gif",
+          "webp": "/04-counter/02-counter.webp"
+        },
+        {
+          "id": "04-03",
+          "thumbnail": "/04-counter/03-counter-thumb.webp",
+          "gif": "/04-counter/03-counter.gif",
+          "webp": "/04-counter/03-counter.webp"
+        },
+        {
+          "id": "04-04",
+          "thumbnail": "/04-counter/04-counter-thumb.webp",
+          "gif": "/04-counter/04-counter.gif",
+          "webp": "/04-counter/04-counter.webp"
+        },
+        {
+          "id": "04-05",
+          "thumbnail": "/04-counter/05-counter-thumb.webp",
+          "gif": "/04-counter/05-counter.gif",
+          "webp": "/04-counter/05-counter.webp"
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "slug": "05-pie-chart",
+      "name": "파이 차트",
+      "items": [
+        {
+          "id": "05-01",
+          "thumbnail": "/05-pie-chart/01-pie-chart-thumb.webp",
+          "gif": "/05-pie-chart/01-pie-chart.gif",
+          "webp": "/05-pie-chart/01-pie-chart.webp"
+        },
+        {
+          "id": "05-02",
+          "thumbnail": "/05-pie-chart/02-pie-chart-thumb.webp",
+          "gif": "/05-pie-chart/02-pie-chart.gif",
+          "webp": "/05-pie-chart/02-pie-chart.webp"
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "slug": "06-semi-gauge",
+      "name": "반원 게이지",
+      "items": [
+        {
+          "id": "06-01",
+          "thumbnail": "/06-semi-gauge/01-semi-gauge-thumb.png",
+          "gif": "/06-semi-gauge/01-semi-gauge.gif",
+          "webp": "/06-semi-gauge/01-semi-gauge.webp"
+        },
+        {
+          "id": "06-02",
+          "thumbnail": "/06-semi-gauge/02-semi-gauge-thumb.webp",
+          "gif": "/06-semi-gauge/02-semi-gauge.gif",
+          "webp": "/06-semi-gauge/02-semi-gauge.webp"
+        },
+        {
+          "id": "06-03",
+          "thumbnail": "/06-semi-gauge/03-semi-gauge-thumb.webp",
+          "gif": "/06-semi-gauge/03-semi-gauge.gif",
+          "webp": "/06-semi-gauge/03-semi-gauge.webp"
+        },
+        {
+          "id": "06-04",
+          "thumbnail": "/06-semi-gauge/04-semi-gauge-thumb.webp",
+          "gif": "/06-semi-gauge/04-semi-gauge.gif",
+          "webp": "/06-semi-gauge/04-semi-gauge.webp"
+        },
+        {
+          "id": "06-05",
+          "thumbnail": "/06-semi-gauge/05-semi-gauge-thumb.webp",
+          "gif": "/06-semi-gauge/05-semi-gauge.gif",
+          "webp": "/06-semi-gauge/05-semi-gauge.webp"
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "slug": "07-column-chart",
+      "name": "세로 막대 그래프",
+      "items": [
+        {
+          "id": "07-01",
+          "thumbnail": "/07-column-chart/01-column-chart-thumb.webp",
+          "gif": "/07-column-chart/01-column-chart.gif",
+          "webp": "/07-column-chart/01-column-chart.webp"
+        },
+        {
+          "id": "07-02",
+          "thumbnail": "/07-column-chart/02-column-chart.png",
+          "gif": "/07-column-chart/02-column-chart.gif",
+          "webp": "/07-column-chart/02-column-chart.webp"
+        },
+        {
+          "id": "07-03",
+          "thumbnail": "/07-column-chart/03-column-chart-thumb.webp",
+          "gif": "/07-column-chart/03-column-chart.gif",
+          "webp": "/07-column-chart/03-column-chart.webp"
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "slug": "08-bar-chart",
+      "name": "막대 그래프",
+      "items": [
+        {
+          "id": "08-01",
+          "thumbnail": "/08-bar-chart/01-bar-chart-thumb.webp",
+          "gif": "/08-bar-chart/01-bar-chart.gif",
+          "webp": "/08-bar-chart/01-bar-chart.webp"
+        },
+        {
+          "id": "08-02",
+          "thumbnail": "/08-bar-chart/02-bar-chart-thumb.webp",
+          "gif": "/08-bar-chart/02-bar-chart.gif",
+          "webp": "/08-bar-chart/02-bar-chart.webp"
+        },
+        {
+          "id": "08-03",
+          "thumbnail": "/08-bar-chart/03-bar-chart-thumb.webp",
+          "gif": "/08-bar-chart/03-bar-chart.gif",
+          "webp": "/08-bar-chart/03-bar-chart.webp"
+        },
+        {
+          "id": "08-04",
+          "thumbnail": "/08-bar-chart/04-bar-chart-thumb.webp",
+          "gif": "/08-bar-chart/04-bar-chart.gif",
+          "webp": "/08-bar-chart/04-bar-chart.webp"
+        },
+        {
+          "id": "08-05",
+          "thumbnail": "/08-bar-chart/05-bar-chart-thumb.webp",
+          "gif": "/08-bar-chart/05-bar-chart%20.gif",
+          "webp": "/08-bar-chart/05-bar-chart%20.webp"
+        },
+        {
+          "id": "08-06",
+          "thumbnail": "/08-bar-chart/06-bar-chart-thumb.webp",
+          "gif": "/08-bar-chart/06-bar-chart.gif",
+          "webp": "/08-bar-chart/06-bar-chart.webp"
+        },
+        {
+          "id": "08-07",
+          "thumbnail": "/08-bar-chart/07-bar-chart-thumb.webp",
+          "gif": "/08-bar-chart/07-bar-chart.gif",
+          "webp": "/08-bar-chart/07-bar-chart.webp"
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "slug": "09-line-chart",
+      "name": "선 그래프",
+      "items": [
+        {
+          "id": "09-01",
+          "thumbnail": "/09-line-chart/01-line-chart-thumb.webp",
+          "gif": "/09-line-chart/01-line-chart.gif",
+          "webp": "/09-line-chart/01-line-chart.webp"
+        },
+        {
+          "id": "09-02",
+          "thumbnail": "/09-line-chart/02-line-chart-thumb.webp",
+          "gif": "/09-line-chart/02-line-chart.gif",
+          "webp": "/09-line-chart/02-line-chart.webp"
+        },
+        {
+          "id": "09-03",
+          "thumbnail": "/09-line-chart/03-line-chart-thumb.webp",
+          "gif": "/09-line-chart/03-line-chart.gif",
+          "webp": "/09-line-chart/03-line-chart.webp"
+        },
+        {
+          "id": "09-04",
+          "thumbnail": "/09-line-chart/04-line-chart-thumb.png",
+          "gif": "/09-line-chart/04-line-chart.gif",
+          "webp": "/09-line-chart/04-line-chart.webp"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "slug": "10-misc",
+      "name": "기타 모션",
+      "items": [
+        {
+          "id": "10-01",
+          "thumbnail": "/10-misc/01-misc-thumb.webp",
+          "gif": "/10-misc/01-misc.gif",
+          "webp": "/10-misc/01-misc.webp"
+        },
+        {
+          "id": "10-02",
+          "thumbnail": "/10-misc/02-misc-thumb.webp",
+          "gif": "/10-misc/02-misc.gif",
+          "webp": "/10-misc/02-misc.webp"
+        },
+        {
+          "id": "10-03",
+          "thumbnail": "/10-misc/03-misc-thumb.webp",
+          "gif": "/10-misc/03-misc.gif",
+          "webp": "/10-misc/03-misc.webp"
+        },
+        {
+          "id": "10-04",
+          "thumbnail": "/10-misc/04-misc-thumb.webp",
+          "gif": "/10-misc/04-misc.gif",
+          "webp": "/10-misc/04-misc.webp"
+        },
+        {
+          "id": "10-05",
+          "thumbnail": "/10-misc/05-misc-thumb.webp",
+          "gif": "/10-misc/05-misc.gif",
+          "webp": "/10-misc/05-misc.webp"
+        },
+        {
+          "id": "10-06",
+          "thumbnail": "/10-misc/06-misc-thumb.webp",
+          "gif": "/10-misc/06-misc.gif",
+          "webp": "/10-misc/06-misc.webp"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "slug": "11-before-after",
+      "name": "전후 비교",
+      "items": [
+        {
+          "id": "11-01",
+          "thumbnail": "/11-before-after/01-before-after-thumb.webp",
+          "gif": "/11-before-after/01-before-after.gif",
+          "webp": "/11-before-after/01-before-after%20.webp"
+        },
+        {
+          "id": "11-02",
+          "thumbnail": "/11-before-after/02-before-after-thumb.webp",
+          "gif": "/11-before-after/02-before-after.gif",
+          "webp": "/11-before-after/02-before-after.webp"
+        },
+        {
+          "id": "11-03",
+          "thumbnail": "/11-before-after/03-before-after-thumb.webp",
+          "gif": "/11-before-after/03-before-after.gif",
+          "webp": "/11-before-after/03-before-after.webp"
+        },
+        {
+          "id": "11-04",
+          "thumbnail": "/11-before-after/04-before-after-thumb.webp",
+          "gif": "/11-before-after/04-before-after.gif",
+          "webp": "/11-before-after/04-before-after.webp"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "slug": "12-calligraphy",
+      "name": "캘리그래피",
+      "items": [
+        {
+          "id": "12-01",
+          "thumbnail": "/12-calligraphy/01-calligraphy-thumb.webp",
+          "gif": "/12-calligraphy/01-calligraphy.gif",
+          "webp": "/12-calligraphy/01-calligraphy.webp"
+        },
+        {
+          "id": "12-02",
+          "thumbnail": "/12-calligraphy/02-calligraphy-thumb.webp",
+          "gif": "/12-calligraphy/02-calligraphy.gif",
+          "webp": "/12-calligraphy/02-calligraphy.webp"
+        },
+        {
+          "id": "12-03",
+          "thumbnail": "/12-calligraphy/03-calligraphy-thumb.webp",
+          "gif": "/12-calligraphy/03-calligraphy.gif",
+          "webp": "/12-calligraphy/03-calligraphy.webp"
+        }
+      ]
+    }
+  ]
+}

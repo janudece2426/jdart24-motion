@@ -1,0 +1,21 @@
+{
+  "name": "jdart24-gif-portfolio",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/generate-portfolio.mjs",
+    "predev": "npm run sync",
+    "dev": "vite",
+    "prebuild": "npm run sync",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "shaders": "^4.0.5",
+    "vite": "latest"
+  }
+}
